@@ -132,7 +132,7 @@ i:before {
 }
 
 .main_title h2 {
-  color: #3e606b;
+  color: #e05982;
   font-family: "Playfair Display", serif;
   font-weight: bold;
   font-size: 38px;
@@ -2675,7 +2675,7 @@ i:before {
 
 .discover_item_inner .discover_item p span {
   float: right;
-  color: #e3764b;
+  color: #e05982;
   font-size: 20px;
   font-family: "Playfair Display", serif;
   font-weight: bold;
@@ -3169,7 +3169,7 @@ i:before {
 /* Client Says Area css
 ============================================================================================ */
 .client_says_area {
-  background: #62c3e7;
+  background: #551b0f;
 }
 
 .client_says_inner {
@@ -4931,7 +4931,7 @@ i:before {
 .portfolio_filter ul li a {
   text-align: center;
   font-size: 22px;
-  color: #3e606b;
+  color: #551b0f;
   font-family: "Lora", serif;
   font-style: italic;
   font-weight: bold;
@@ -5013,7 +5013,7 @@ i:before {
 
 .portfolio_item .portfolio_text h4 {
   font-size: 18px;
-  color: #3e606b;
+  color: #551b0f;
   font-family: "Playfair Display", serif;
   margin-top: 25px;
   margin-bottom: 0px;

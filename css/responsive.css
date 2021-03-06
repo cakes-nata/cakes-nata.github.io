@@ -385,7 +385,6 @@
 	}
 	.main_menu_two .navbar.navbar-expand-lg .navbar-collapse {
 		max-height: 392px;
-		overflow-y: scroll;
 	}
 	.middle_menu_three .navbar.navbar-expand-lg .navbar-collapse {
 		max-height: 400px;
